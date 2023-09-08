@@ -3,7 +3,7 @@
     font-family: Verdana, "DejaVu Sans", sans-serif;
 }
 
-.third {
+.change-font-size {
     font-size: 24px;
 }
 
@@ -14,6 +14,5 @@
 
 #number4 {
     background-color: hsl(120, 73%, 75%);
-    font-size: 24px;
     font-weight: bold;
 }
