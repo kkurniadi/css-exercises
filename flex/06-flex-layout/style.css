@@ -36,11 +36,18 @@ a {
   text-decoration: none;
   color: black;
 }
-.header {
+
+.header, .footer {
   display: flex;
+  justify-content: space-between;
 }
 
 .footer {
-  display: flex;
   background-color: #eeeeee;
+}
+
+.left-links, .right-links {
+  display: flex;
+  gap: 16px;
+  margin: 16px;
 }
