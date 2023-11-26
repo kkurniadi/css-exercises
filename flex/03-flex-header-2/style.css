@@ -21,6 +21,17 @@ body {
   display: flex;
   align-items: center;
   align-self: flex-start;
+}
+
+.header-right {
+  display: flex;
+  align-items: center;
+  align-self: flex-end;
+  gap: 8px;
+}
+
+.links {
+  display: flex;
   gap: 8px;
 }
 
