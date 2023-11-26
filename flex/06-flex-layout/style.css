@@ -36,3 +36,11 @@ a {
   text-decoration: none;
   color: black;
 }
+.header {
+  display: flex;
+}
+
+.footer {
+  display: flex;
+  background-color: #eeeeee;
+}
