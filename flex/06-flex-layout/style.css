@@ -46,6 +46,12 @@ a {
   background-color: #eeeeee;
 }
 
+.content {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
 .left-links, .right-links {
   display: flex;
   gap: 16px;
