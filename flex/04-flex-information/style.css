@@ -16,6 +16,9 @@ img {
 
 .content {
   display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 52px;
 }
 
 /* do not edit this footer */
