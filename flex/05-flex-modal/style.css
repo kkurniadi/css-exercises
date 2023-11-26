@@ -48,6 +48,10 @@ body {
   font-weight: 700;
 }
 
+.text {
+  margin-bottom: 16px;
+}
+
 .close-button {
   background: #eee;
   border-radius: 50%;
